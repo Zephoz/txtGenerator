@@ -1,0 +1,5 @@
+För att använda detta program behöver du ha MongoDB installerat och en SQL-server aktiverad.
+Vid testning användes MariaDB via XAMPP för SQL; https://www.apachefriends.org/index.html
+För att kunna kommunicera med SQL-databasen användes MySQL Connector: https://dev.mysql.com/downloads/connector/net/
+Och MongoDB Community Server för MongoDB; https://www.mongodb.com/download-center/community
+För att kunna kommunicera med MongoDB-databasen användes MongoDB C#/.NET Driver: https://docs.mongodb.com/ecosystem/drivers/csharp/ 
